@@ -93,7 +93,6 @@ Youâll log in at [localhost:3000](http://localhost:3000/) and get your `ORG
 ## Resources
 
 - [Official RL-Swarm Repo](https://github.com/gensyn-ai/rl-swarm)
-- [Gensyn Node Setup Video](https://www.youtube.com/watch?v=IGHcCqij8qU)
 
 ---
 
